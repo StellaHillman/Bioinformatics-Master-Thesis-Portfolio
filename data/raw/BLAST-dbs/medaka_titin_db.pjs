@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "medaka_titin_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "medaka_ttn_all-igs_final.fasta",
+  "number-of-letters": 10949,
+  "number-of-sequences": 117,
+  "last-updated": "2025-01-14T13:02:00",
+  "number-of-volumes": 1,
+  "bytes-total": 170485,
+  "bytes-to-cache": 12123,
+  "files": [
+    "medaka_titin_db.pdb",
+    "medaka_titin_db.phr",
+    "medaka_titin_db.pin",
+    "medaka_titin_db.pot",
+    "medaka_titin_db.psq",
+    "medaka_titin_db.ptf",
+    "medaka_titin_db.pto"
+  ]
+}

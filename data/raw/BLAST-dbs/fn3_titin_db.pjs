@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "fn3_titin_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "fn3_titindb.fasta",
+  "number-of-letters": 12480,
+  "number-of-sequences": 120,
+  "last-updated": "2025-01-21T17:02:00",
+  "number-of-volumes": 1,
+  "bytes-total": 172496,
+  "bytes-to-cache": 13665,
+  "files": [
+    "fn3_titin_db.pdb",
+    "fn3_titin_db.phr",
+    "fn3_titin_db.pin",
+    "fn3_titin_db.pot",
+    "fn3_titin_db.psq",
+    "fn3_titin_db.ptf",
+    "fn3_titin_db.pto"
+  ]
+}

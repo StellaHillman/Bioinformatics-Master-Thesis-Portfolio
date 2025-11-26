@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "medakaBtitin_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "TTN-B-medaka_protein-seq.fasta",
+  "number-of-letters": 29492,
+  "number-of-sequences": 1,
+  "last-updated": "2025-04-23T16:07:00",
+  "number-of-volumes": 1,
+  "bytes-total": 177207,
+  "bytes-to-cache": 29622,
+  "files": [
+    "medakaBtitin_db.pdb",
+    "medakaBtitin_db.phr",
+    "medakaBtitin_db.pin",
+    "medakaBtitin_db.pot",
+    "medakaBtitin_db.psq",
+    "medakaBtitin_db.ptf",
+    "medakaBtitin_db.pto"
+  ]
+}

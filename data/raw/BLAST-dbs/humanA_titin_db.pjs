@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "humanA_titin_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "human_ttn_A-band_final.fasta",
+  "number-of-letters": 4879,
+  "number-of-sequences": 51,
+  "last-updated": "2025-01-22T13:53:00",
+  "number-of-volumes": 1,
+  "bytes-total": 157282,
+  "bytes-to-cache": 5459,
+  "files": [
+    "humanA_titin_db.pdb",
+    "humanA_titin_db.phr",
+    "humanA_titin_db.pin",
+    "humanA_titin_db.pot",
+    "humanA_titin_db.psq",
+    "humanA_titin_db.ptf",
+    "humanA_titin_db.pto"
+  ]
+}

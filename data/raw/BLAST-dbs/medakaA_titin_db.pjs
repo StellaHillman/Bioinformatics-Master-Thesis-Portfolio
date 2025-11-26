@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "medakaA_titin_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "olattnA-ABand_cleaned.fasta",
+  "number-of-letters": 4776,
+  "number-of-sequences": 50,
+  "last-updated": "2025-01-22T12:52:00",
+  "number-of-volumes": 1,
+  "bytes-total": 157531,
+  "bytes-to-cache": 5347,
+  "files": [
+    "medakaA_titin_db.pdb",
+    "medakaA_titin_db.phr",
+    "medakaA_titin_db.pin",
+    "medakaA_titin_db.pot",
+    "medakaA_titin_db.psq",
+    "medakaA_titin_db.ptf",
+    "medakaA_titin_db.pto"
+  ]
+}

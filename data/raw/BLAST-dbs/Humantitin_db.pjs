@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "Humantitin_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "TTN-protein-sequence.fasta",
+  "number-of-letters": 35991,
+  "number-of-sequences": 1,
+  "last-updated": "2025-04-23T16:37:00",
+  "number-of-volumes": 1,
+  "bytes-total": 183663,
+  "bytes-to-cache": 36113,
+  "files": [
+    "Humantitin_db.pdb",
+    "Humantitin_db.phr",
+    "Humantitin_db.pin",
+    "Humantitin_db.pot",
+    "Humantitin_db.psq",
+    "Humantitin_db.ptf",
+    "Humantitin_db.pto"
+  ]
+}
