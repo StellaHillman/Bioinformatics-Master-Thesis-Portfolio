@@ -13,8 +13,8 @@ This repository contains **key components of my variant analysis**.
 
 - **Variant-Datasets**: Cleaning, converting, and fixing variant datasets (VCF/CSV)  
 - **Domains**: Extracting and preprocessing protein domain sequences, formatting headers, generating FASTA files  
-- **Ig-Annotation-Scheme**: Annotating and numbering Ig and Fibronectin III domains  
+- **Ig-Annotation-Scheme**: Annotating and numbering Ig and Fibronectin III domains 
 - **Conservation-Analysis**: Comparative analysis of human and Medaka titin domains; statistical tests and plotting  
-- **Variant_Analysis**: Downstream analysis of variant distributions, chi-square tests, Venn diagrams, visualizations  
+- **Variant_Analysis**: analysis of variant distributions, chi-square tests, Venn diagrams, visualizations  
 
 
