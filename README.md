@@ -1,6 +1,6 @@
 # Bioinformatics Master Thesis Portfolio
 
-This repository contains scripts that were used during my Master Thesis. The project used the conserved domains of titin and related proteins to create seqeunce alignment that were used to map single nucleotide variants. 
+This repository contains scripts that were used during my Master Thesis. The project used the conserved domains of titin and related proteins to create seqeunce alignments that were used to map single nucleotide variants. 
 
 ## data
 
